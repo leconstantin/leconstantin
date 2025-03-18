@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MangoBD and Mangoes**
 
-- 👨‍💻 All of my projects are available at [https://leconstantin.vercel.app/](https://leconstantin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://leconstantin.vercel.app/](https://le-constantin.vercel.app/)
 
 - 💬 Ask me about **Nextjs, react,Tailwind,Prisma and more**
 
