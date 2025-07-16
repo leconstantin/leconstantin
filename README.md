@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rathon**
 
-- 🌱 I’m currently learning **Convex and Sevre infarstucture**
+- 🌱 I’m currently learning **Convex**
 
 - 👨‍💻 All of my projects are available at [https://leo-constantin.vercel.app/](https://leo-constantin.vercel.app/)
 
