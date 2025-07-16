@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leconstantin" alt="leconstantin" /></a> </p>
 
-- 🔭 I’m currently working on **Bloggy**
+- 🔭 I’m currently working on **Rathon**
 
-- 🌱 I’m currently learning **MangoBD and Mangoes**
+- 🌱 I’m currently learning **Convex and Sevre infarstucture**
 
 - 👨‍💻 All of my projects are available at [https://leo-constantin.vercel.app/](https://leo-constantin.vercel.app/)
 
