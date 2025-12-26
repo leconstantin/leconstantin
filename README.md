@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Convex**
 
-- 👨‍💻 All of my projects are available at [https://leo-constantin.vercel.app/](https://leo-constantin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://founder.rathon-rw.com/](https://founder.rathon-rw.com/)
 
-- 💬 Ask me about **Nextjs, react,Tailwind,Prisma and more**
+- 💬 Ask me about **Nextjs, react,Tailwind,Convex and more**
 
-- 📫 How to reach me **muhirweleoconstantin@gmail.com**
+- 📫 How to reach me **lcon69184@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
